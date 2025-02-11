@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6eab6215-3f4e-419a-988f-074773adf785" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/create_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/create_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/annotation/AuthCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/annotation/AuthCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/aop/AuthInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/aop/AuthInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/aop/LogInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/aop/LogInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/common/BaseResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/common/BaseResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/common/DeleteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/common/DeleteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/common/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/common/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/common/PageRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/common/PageRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/common/ResultUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/common/ResultUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/config/CosClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/config/CosClientConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/config/JsonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/config/JsonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/constant/CommonConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/constant/CommonConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/constant/FileConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/constant/FileConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/constant/UserConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/constant/UserConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/controller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/controller/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/controller/PostFavourController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/controller/PostFavourController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/controller/PostThumbController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/controller/PostThumbController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/exception/BusinessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/exception/BusinessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/exception/ThrowUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/exception/ThrowUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/mapper/PostFavourMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/mapper/PostFavourMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/mapper/PostMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/mapper/PostMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/mapper/PostThumbMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/mapper/PostThumbMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/file/UploadFileRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/file/UploadFileRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/post/PostAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/post/PostAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/post/PostEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/post/PostEditRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/post/PostQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/post/PostQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/post/PostUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/post/PostUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/postfavour/PostFavourAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/postfavour/PostFavourAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/postfavour/PostFavourQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/postfavour/PostFavourQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/postthumb/PostThumbAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/postthumb/PostThumbAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/user/UserAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/user/UserAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/user/UserLoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/user/UserLoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/user/UserQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/user/UserQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/user/UserRegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/user/UserRegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/user/UserUpdateMyRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/user/UserUpdateMyRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/user/UserUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/user/UserUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/entity/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/entity/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/entity/PostFavour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/entity/PostFavour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/entity/PostThumb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/entity/PostThumb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/enums/UserRoleEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/enums/UserRoleEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/LoginUserVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/LoginUserVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/PostVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/PostVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/UserVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/UserVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/PostFavourService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/PostFavourService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/PostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/PostThumbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/PostThumbService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/PostFavourServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/PostFavourServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/PostServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/PostServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/PostThumbServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/PostThumbServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/utils/NetUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/utils/NetUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/utils/SpringContextUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/utils/SpringContextUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/utils/SqlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/utils/SqlUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/PostFavourMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/PostFavourMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/PostMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/PostMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/PostThumbMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/PostThumbMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/twb/dadale/manager/CosManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/twb/dadale/manager/CosManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/twb/dadale/mapper/PostFavourMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/twb/dadale/mapper/PostFavourMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/twb/dadale/mapper/PostMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/twb/dadale/mapper/PostMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/twb/dadale/service/PostFavourServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/twb/dadale/service/PostFavourServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/twb/dadale/service/PostThumbServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/twb/dadale/service/PostThumbServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/twb/dadale/service/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/twb/dadale/service/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/twb/dadale/utils/EasyExcelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/twb/dadale/utils/EasyExcelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/MainApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/aop/AuthInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/aop/AuthInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/aop/LogInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/aop/LogInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/common/BaseResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/common/BaseResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/common/DeleteRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/common/DeleteRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/common/ErrorCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/common/ErrorCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/common/PageRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/common/PageRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/common/ResultUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/common/ResultUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/config/CorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/config/CorsConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/config/CosClientConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/config/CosClientConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/config/JsonConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/config/JsonConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/controller/FileController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/controller/FileController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/controller/PostController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/controller/PostController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/controller/PostFavourController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/controller/PostFavourController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/controller/PostThumbController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/controller/PostThumbController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/exception/BusinessException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/exception/BusinessException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/exception/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/exception/ThrowUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/exception/ThrowUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/file/UploadFileRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/file/UploadFileRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/post/PostAddRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/post/PostAddRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/post/PostEditRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/post/PostEditRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/post/PostQueryRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/post/PostQueryRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/post/PostUpdateRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/post/PostUpdateRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/postfavour/PostFavourAddRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/postfavour/PostFavourAddRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/postfavour/PostFavourQueryRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/postfavour/PostFavourQueryRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/postthumb/PostThumbAddRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/postthumb/PostThumbAddRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/user/UserAddRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/user/UserAddRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/user/UserLoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/user/UserLoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/user/UserQueryRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/user/UserQueryRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/user/UserRegisterRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/user/UserRegisterRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/user/UserUpdateMyRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/user/UserUpdateMyRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/user/UserUpdateRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/dto/user/UserUpdateRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/entity/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/entity/Post.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/entity/PostFavour.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/entity/PostFavour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/entity/PostThumb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/entity/PostThumb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/enums/UserRoleEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/enums/UserRoleEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/vo/LoginUserVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/vo/LoginUserVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/vo/PostVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/vo/PostVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/vo/UserVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/model/vo/UserVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/service/impl/PostFavourServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/service/impl/PostFavourServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/service/impl/PostServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/service/impl/PostServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/service/impl/PostThumbServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/service/impl/PostThumbServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/utils/NetUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/utils/NetUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/utils/SpringContextUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/utils/SpringContextUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/twb/dadale/utils/SqlUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/twb/dadale/utils/SqlUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/PostFavourMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/PostFavourMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/PostMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/PostMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/PostThumbMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/PostThumbMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/manager/CosManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/manager/CosManagerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/mapper/PostFavourMapperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/mapper/PostFavourMapperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/mapper/PostMapperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/mapper/PostMapperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/service/PostFavourServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/service/PostFavourServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/service/PostThumbServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/service/PostThumbServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/service/UserServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/service/UserServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/utils/EasyExcelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/twb/dadale/utils/EasyExcelTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tuwubiao&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tuwubiao/dadale-backend.git&quot;,
+    &quot;accountId&quot;: &quot;22184ef0-7c5f-4a97-a8c4-88b64a7ef20c&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2r6ETWmkE5IA6ZGcrY0h9ivNv8k" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.MainApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="dadale-backend" />
+      <option name="SHORTEN_COMMAND_LINE" value="ARGS_FILE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.twb.dadale.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="SHORTEN_COMMAND_LINE" value="ARGS_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6eab6215-3f4e-419a-988f-074773adf785" name="更改" comment="" />
+      <created>1735871134005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735871134005</updated>
+      <workItem from="1735871135757" duration="3505000" />
+      <workItem from="1736839049310" duration="1154000" />
+      <workItem from="1736920918604" duration="7000" />
+      <workItem from="1739146069985" duration="3738000" />
+      <workItem from="1739150508785" duration="82000" />
+      <workItem from="1739150601496" duration="8689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

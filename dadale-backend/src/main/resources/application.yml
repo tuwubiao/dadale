@@ -103,4 +103,4 @@ knife4j:
           - com.twb.dadale.controller
 #AI 配置
 ai:
-  apiKey: f8156dbb5422537f140c210c0e482661.qZFwj58kYWK9zTAE
+  apiKey: xxx

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6eab6215-3f4e-419a-988f-074773adf785" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/init_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/init_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/generate/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/generate/CodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/app/AppAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/app/AppAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/app/AppEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/app/AppEditRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/app/AppQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/app/AppQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/app/AppUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/app/AppUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/question/QuestionAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/question/QuestionAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/question/QuestionEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/question/QuestionEditRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/question/QuestionQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/question/QuestionQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/question/QuestionUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/question/QuestionUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/scoringResult/ScoringResultAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/scoringResult/ScoringResultAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/scoringResult/ScoringResultEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/scoringResult/ScoringResultEditRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/scoringResult/ScoringResultQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/scoringResult/ScoringResultQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/scoringResult/ScoringResultUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/scoringResult/ScoringResultUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/userAnswer/UserAnswerAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/userAnswer/UserAnswerAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/userAnswer/UserAnswerEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/userAnswer/UserAnswerEditRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/userAnswer/UserAnswerQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/userAnswer/UserAnswerQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/userAnswer/UserAnswerUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/dto/userAnswer/UserAnswerUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/enums/AppScoringStrategyEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/enums/AppScoringStrategyEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/enums/AppTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/enums/AppTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/enums/ReviewStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/enums/ReviewStatusEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/AppVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/AppVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/QuestionVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/QuestionVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/ScoringResultVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/ScoringResultVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/UserAnswerVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/model/vo/UserAnswerVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/AppService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/AppService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/ScoringResultService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/ScoringResultService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/UserAnswerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/UserAnswerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/QuestionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/QuestionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/ScoringResultServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/ScoringResultServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/UserAnswerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/twb/dadale/service/impl/UserAnswerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/TemplateController.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/TemplateController.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/TemplateService.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/TemplateService.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/TemplateServiceImpl.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/TemplateServiceImpl.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateAddRequest.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateAddRequest.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateEditRequest.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateEditRequest.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateQueryRequest.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateQueryRequest.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateUpdateRequest.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateUpdateRequest.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateVO.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/model/TemplateVO.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-frontend/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tuwubiao&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tuwubiao/dadale.git&quot;,
+    &quot;accountId&quot;: &quot;22184ef0-7c5f-4a97-a8c4-88b64a7ef20c&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2r6ETWmkE5IA6ZGcrY0h9ivNv8k" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.MainApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="dadale-backend" />
+      <option name="SHORTEN_COMMAND_LINE" value="ARGS_FILE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.twb.dadale.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="SHORTEN_COMMAND_LINE" value="ARGS_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6eab6215-3f4e-419a-988f-074773adf785" name="更改" comment="" />
+      <created>1735871134005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735871134005</updated>
+      <workItem from="1735871135757" duration="3505000" />
+      <workItem from="1736839049310" duration="1154000" />
+      <workItem from="1736920918604" duration="7000" />
+      <workItem from="1739146069985" duration="3738000" />
+      <workItem from="1739150508785" duration="82000" />
+      <workItem from="1739150601496" duration="8689000" />
+      <workItem from="1739241156214" duration="1387000" />
+      <workItem from="1739434225027" duration="1668000" />
+      <workItem from="1739491910789" duration="795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

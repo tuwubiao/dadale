@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5870cba-9dd9-4590-b4b6-bb467b37a8f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openapi.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/accessEnum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/checkAccess.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/appController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/appStatisticController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/fileController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/postController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/postFavourController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/postThumbController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/questionController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/scoringResultController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/userAnswerController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/userController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AppCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GlobalHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MdEditor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MdViewer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PictureUploader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ShareModal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constant/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/UserLayout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/request.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shims-vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/userStore.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/HomePage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/NoAuthPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/add/AddAppPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/add/AddQuestionPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/add/AddScoringResultPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/add/components/AiGenerateQuestionDrawer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/add/components/ScoringResultTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/admin/AdminAppPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/admin/AdminQuestionPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/admin/AdminScoringResultPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/admin/AdminUserAnswerPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/admin/AdminUserPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/answer/AnswerResultPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/answer/DoAnswerPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/answer/MyAnswerPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/app/AppDetailPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/statistic/AppStatisticPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/UserLoginPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/UserRegisterPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/sql/create_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/sql/create_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/controller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/controller/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/controller/PostFavourController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/controller/PostFavourController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/controller/PostThumbController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/controller/PostThumbController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/generate/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/generate/CodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/manager/CosManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/manager/CosManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/model/enums/FileUploadBizEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/java/com/twb/dadale/model/enums/FileUploadBizEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/resources/application-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/resources/application-test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadale-backend/src/test/java/com/twb/dadale/MainApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dadale-backend/src/test/java/com/twb/dadale/MainApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/BasicLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/BasicLayout.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d3e21227-8378-4481-b97e-8fb0c5b88521" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2qPguEOINbDC1J2Zb5C5zohWJos" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/dadale/dadale-frontend/src/components&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\Java\\dadale\\dadale-frontend\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Java\\dadale\\dadale-frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\dadale\dadale-frontend\src\components" />
+      <recent name="D:\Java\dadale\dadale-frontend\src\views\statistic" />
+      <recent name="D:\Java\dadale\dadale-frontend\src\views\answer" />
+      <recent name="D:\Java\dadale\dadale-frontend\src\views\add\components" />
+      <recent name="D:\Java\dadale\dadale-frontend\src\views\add" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\dadale\dadale-frontend\src\views" />
+      <recent name="D:\Java\dadale\dadale-frontend\src\views\admin" />
+      <recent name="D:\Java\dadale\dadale-frontend\src\views\user" />
+      <recent name="D:\Java\dadale\dadale-frontend\src\assets" />
+      <recent name="D:\Java\dadale\dadale-frontend\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="openapi" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="openapi" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="openapi2ts" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="openapi2ts" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+        <item itemvalue="npm.openapi" />
+        <item itemvalue="npm.openapi2ts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\twb\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5870cba-9dd9-4590-b4b6-bb467b37a8f9" name="Changes" comment="" />
+      <created>1734569847064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734569847064</updated>
+      <workItem from="1734569851238" duration="14360000" />
+      <workItem from="1734673537923" duration="6756000" />
+      <workItem from="1734742311567" duration="19299000" />
+      <workItem from="1734912606049" duration="20279000" />
+      <workItem from="1734999428711" duration="16623000" />
+      <workItem from="1735176965730" duration="9097000" />
+      <workItem from="1735354151726" duration="2225000" />
+      <workItem from="1735518630672" duration="6297000" />
+      <workItem from="1735608188519" duration="6275000" />
+      <workItem from="1735776615738" duration="15204000" />
+      <workItem from="1735870524741" duration="2734000" />
+      <workItem from="1736839156402" duration="1048000" />
+      <workItem from="1739146136695" duration="3053000" />
+      <workItem from="1739241090947" duration="1111000" />
+      <workItem from="1739434202662" duration="1287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
